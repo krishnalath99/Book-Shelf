@@ -2,6 +2,14 @@
 
 A React application that allows users to search for books using the Open Library API and maintain a personal bookshelf in the browser using localStorage.
 
+
+## Features
+
+- **Book Search Page**: Search for books in real-time as you type.
+- **Personal Bookshelf Page**: Add books to your personal bookshelf and view them later.
+- **Responsive Design**: The application is responsive and looks great on all devices.
+
+
 ## Getting Started
 
 Follow these instructions to set up the project locally.
