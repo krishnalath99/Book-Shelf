@@ -2,13 +2,6 @@
 
 A React application that allows users to search for books using the Open Library API and maintain a personal bookshelf in the browser using localStorage.
 
-## Features
-
-- **Book Search Page**: Search for books in real-time as you type.
-- **Personal Bookshelf Page**: Add books to your personal bookshelf and view them later.
-- **Responsive Design**: The application is responsive and looks great on all devices.
-
-
 ## Getting Started
 
 Follow these instructions to set up the project locally.
@@ -28,3 +21,14 @@ Follow these instructions to set up the project locally.
 2. **Install dependencies**:
    ```sh
    npm install axios react-router-dom react-bootstrap
+
+
+### Running the Application
+
+1. **Start the development server**:
+   ```sh
+   npm start
+
+2. **Open the application in your browser**:
+   ```sh
+   http://localhost:3000
